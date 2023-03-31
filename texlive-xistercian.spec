@@ -1,6 +1,6 @@
 Name:		texlive-xistercian
 Version:	61366
-Release:	1
+Release:	2
 Summary:	Cistercian numerals in LaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xistercian
